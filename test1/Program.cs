@@ -13,6 +13,8 @@ namespace test1
             Console.Write("hellow orld derp!");
             Console.Beep();
             Console.ReadLine();
+
+            Console.Clear();
         }
     }
 }
