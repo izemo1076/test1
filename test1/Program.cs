@@ -15,6 +15,9 @@ namespace test1
             Console.ReadLine();
 
             Console.Clear();
+
+
+            Console.WriteLine("pooping");
         }
     }
 }
