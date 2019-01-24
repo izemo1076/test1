@@ -18,6 +18,7 @@ namespace test1
 
 
             Console.WriteLine("pooping");
+            Console.WriteLine("more poop to coming, watch it drop, like its hot.");
         }
     }
 }
